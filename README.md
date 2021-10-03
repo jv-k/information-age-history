@@ -2,6 +2,8 @@
 
 A list of videos, documentaries and related links about the history of our digital age
 
+https://lab.github.com/Course-Reactor/computer-science-history
+
 [MOSFET – The Most significant invention of the 20th Century](https://www.youtube.com/watch?v=bHwl8TdEI6k)
 
 > What makes a truly world-changing invention?. Of all the inventions of
@@ -24,6 +26,6 @@ A list of videos, documentaries and related links about the history of our digit
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2OTA0MTIwLC05MDQ5NDU2OTIsMjg5Mj
-MxNjgyXX0=
+eyJoaXN0b3J5IjpbLTE3NDQyMzk5ODksODA2OTA0MTIwLC05MD
+Q5NDU2OTIsMjg5MjMxNjgyXX0=
 -->
