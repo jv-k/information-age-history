@@ -12,17 +12,18 @@ A list of videos, documentaries and related links about the history of our digit
 > directly and their individual job is just to switch on and off. This
 > is the story of the MOSFET and how it changed the world.
 
-> The transistor is the most widely manufactured modern technology
+**The transistor is the most widely manufactured modern technology**
 
 ## TODO
 — Graphs for transistor trends
 
+## Timeline
 | Year	| Technology | Description |
 |-|-|-|
 | 1954 | [Regency TR-1](https://en.wikipedia.org/wiki/Regency_TR-1) |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTYxOTI5OSwtOTA0OTQ1NjkyLDI4OT
-IzMTY4Ml19
+eyJoaXN0b3J5IjpbODA2OTA0MTIwLC05MDQ5NDU2OTIsMjg5Mj
+MxNjgyXX0=
 -->
