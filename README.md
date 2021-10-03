@@ -15,7 +15,7 @@ https://lab.github.com/Course-Reactor/computer-science-history
 > is the story of the MOSFET and how it changed the world.
 
 **The transistor is the most widely manufactured modern technology**
-
+jv
 ## TODO
 — Graphs for transistor trends
 
@@ -26,6 +26,6 @@ https://lab.github.com/Course-Reactor/computer-science-history
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQyMzk5ODksODA2OTA0MTIwLC05MD
-Q5NDU2OTIsMjg5MjMxNjgyXX0=
+eyJoaXN0b3J5IjpbLTEzOTcxMTk0NjUsLTE3NDQyMzk5ODksOD
+A2OTA0MTIwLC05MDQ5NDU2OTIsMjg5MjMxNjgyXX0=
 -->
